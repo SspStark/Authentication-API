@@ -204,7 +204,7 @@ Write APIs to perform operations on the table `user` containing the following co
     - **Status text**
       ```
       Password updated
-      ```
+      ``
 
 
 <br/>
